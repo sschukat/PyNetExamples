@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDialog", "SimpleDialog\SimpleDialog.csproj", "{22E88F85-7E2A-4C92-838B-3CD2F7CB213D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UILibrary", "UILibrary\UILibrary.csproj", "{474FD7E9-DAF9-4FAF-BCCB-C56A2A4012BE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonModules", "PythonModules\PythonModules.pyproj", "{5263B4F4-B5B4-496E-AA03-DCB74A6D5243}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6BC6A9E1-E189-4078-AC59-00D0681B637C}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddingPython", "EmbeddingPython\EmbeddingPython.csproj", "{3508F4F1-7505-48AB-85FC-2D94E413E683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E88F85-7E2A-4C92-838B-3CD2F7CB213D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E88F85-7E2A-4C92-838B-3CD2F7CB213D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E88F85-7E2A-4C92-838B-3CD2F7CB213D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E88F85-7E2A-4C92-838B-3CD2F7CB213D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474FD7E9-DAF9-4FAF-BCCB-C56A2A4012BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474FD7E9-DAF9-4FAF-BCCB-C56A2A4012BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474FD7E9-DAF9-4FAF-BCCB-C56A2A4012BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474FD7E9-DAF9-4FAF-BCCB-C56A2A4012BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5263B4F4-B5B4-496E-AA03-DCB74A6D5243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5263B4F4-B5B4-496E-AA03-DCB74A6D5243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3508F4F1-7505-48AB-85FC-2D94E413E683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3508F4F1-7505-48AB-85FC-2D94E413E683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3508F4F1-7505-48AB-85FC-2D94E413E683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3508F4F1-7505-48AB-85FC-2D94E413E683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C641D05-72E2-4BEC-91AC-435AE2BF6F74}
+	EndGlobalSection
+EndGlobal
